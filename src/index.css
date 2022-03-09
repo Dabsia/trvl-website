@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: sans-serif;
+  background: #fff;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: Poppins, sans-serif;
+}
+
+main {
+  margin-top: 6rem;
+}
